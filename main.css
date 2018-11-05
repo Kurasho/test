@@ -1,0 +1,144 @@
+*,
+*:before,
+*:after{
+	box-sizing: border-box;
+}
+body{
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	line-height: 31px;
+	margin:0;
+	padding:0;
+	color: #898989;
+	
+}
+span{
+	color: #e36018;
+}
+.banner{
+	position:relative;
+	width: 100%;
+}
+h1{
+	position:absolute;
+	left: 461px;
+	top: 130px;
+	width:100%;
+	color: #fff;
+	font-size: 48px;
+	text-transform: uppercase;
+}
+img{
+	width: 100%;
+}
+.wrap{
+	margin: -184px auto;
+	display: flex;
+	flex-direction: row;
+	width:1280px;
+	position:absolute;
+	left:2.5%;
+	background: #fff;
+}
+
+.aside{
+	font-family: 'Open Sans', sans-serif;
+	width: 316px;
+	margin-right: 40px;
+	padding: 22px;
+	margin-top: 5px;
+	font-size:13px;
+	line-height: 43px;
+	font-weight: bold;
+	border: 1px solid #f6f6f6;
+	margin-left: 37px;
+	height: 460px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	
+}
+hr{
+	background-color:#E2E2E2;
+}
+.section{
+	
+	padding: 35px;
+	width: 864px;
+	margin-top: -10px;
+}
+ul{
+	margin:0;
+	margin-bottom:30px;
+    margin-left: -38px;
+}
+.link_1{
+	display:block;
+	height: 66px;
+	background: #e36018;
+	text-align:center;
+	padding-top: 15px;
+	margin-left: -25px;
+	text-align: left;
+    padding-left: 26px;
+	width: 316px;
+}
+.first_link{
+	color: #fff;
+}
+
+li {
+    list-style-type: none; 
+	text-transform: uppercase;
+   }
+a{
+	text-decoration: none;
+	color: #4f4f4f;
+}
+a:hover{
+	color: #e36018;
+}
+h2{
+	font-size: 36px;
+	margin-top: 5px;
+	text-transform: uppercase;
+	color: #4f4f4f;
+}
+.p_italic{
+	font-size:24px;
+	font-style: italic;
+	line-height:40px;
+}
+.button{
+	width:316px;
+	height:316px;
+	background:#e36018;
+	float:left;
+	margin-top: 518px;
+    margin-left: -357px;
+	margin-right: 37px;
+	font-size:24px;
+	
+	
+	text-align: center;
+}
+.footer{
+	font-size: 14px;
+	text-align:center;
+	line-height: 34px;
+	 margin-top: 3px;
+	 font-style: italic;
+}
+
+.button_inp{
+	width:316px;
+	height:316px;
+	background:#e36018;	
+	border:2px solid #fff;
+	margin-top: 518px;
+    margin-left: -357px;
+	margin-right: 37px;
+}
+
+
+
+
+
