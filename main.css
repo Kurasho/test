@@ -1,5 +1,8 @@
 *,
 *:before,
+param
+pam 
+pam
 *:after{
 	box-sizing: border-box;
 }
